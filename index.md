@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/altaiperry/altaiperry.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About me
+
+I am a second year PhD student in Mechanical Engineering at the University of California - Riverside in [Prof. Luat Vuong's](https://profiles.ucr.edu/app/home/profile/luatv) [lab](https://nanochiral.engr.ucr.edu/). Where my research interests are in Machine Vision, Optical State Estimation, and mathematical complexity. I graduated with a MSE in Mechanical Engineering from the University of Massachussetts - Lowell in 2020, two years after I graduated with a B.Sc. in Chemical Engineering from the University of New Hampshire. 
 
 ### Markdown
 
